@@ -1,1 +1,9 @@
 /*! Place your custom styles here */
+
+/*! Place your custom styles here */
+
+
+.bar .logo {
+    max-height: 80px;
+    max-width: none;
+}
