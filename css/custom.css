@@ -7,3 +7,10 @@
     max-height: 80px;
     max-width: none;
 }
+.footer-img {
+    background-repeat: no-repeat;
+    background-color: rgba(255,255,255,0.7);
+    background-image: url(../img/footer.jpeg);
+    background-position: center;
+    background-blend-mode: overlay;
+}
