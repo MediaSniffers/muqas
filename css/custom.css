@@ -25,3 +25,8 @@
     -ms-flex-align: center;
     align-items: center;
 }
+
+.no-repeating-centered-image {
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
