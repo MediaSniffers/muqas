@@ -14,7 +14,18 @@
     background-position: center;
     background-blend-mode: overlay;
 }
-
+.no-padding {
+    padding: 0;
+}
+@media (max-width: 767px) {
+    .mobile-margin-top {
+        margin-top: 80px;
+    }
+    .pos-vertical-center.clearfix.row.no-gutters.justify-content-center {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
 .vertical-centering {
     display: -webkit-box;
     display: -webkit-flex;
